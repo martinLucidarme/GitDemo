@@ -18,6 +18,7 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
+        // And this is the test of GitX guy
     }
 
     /**
