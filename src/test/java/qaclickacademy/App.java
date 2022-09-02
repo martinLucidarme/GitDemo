@@ -13,5 +13,6 @@ public class App
         System.out.println( "Hello World3" );
         
         System.out.println( "Testing and playing in this branch" );
+        System.out.println( "Hey me too from GitX" );
     }
 }
